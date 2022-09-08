@@ -7,7 +7,7 @@ function botonEncriptar() {
     console.log(textoEncriptado);
     textoModificado.value = textoEncriptado;
     textoOriginal.value = "";
-    textoModificado.style.backgroundImage="none"
+    textoModificado.style.backgroundImage="none";
 
 }
 
